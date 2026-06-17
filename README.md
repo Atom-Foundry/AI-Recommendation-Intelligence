@@ -23,3 +23,12 @@ Recommendation Intelligence measures whether a business is actually selected and
 Created by Atom Foundry.
 
 https://atomfoundry.dev/framework/recommendation-intelligence
+
+## Position Within The AI Commerce Graph™
+
+Recommendation Intelligence™ measures how AI systems transform understanding and trust into recommendations.
+
+The framework is part of the AI Commerce Graph™.
+
+Learn more:
+https://github.com/Atom-Foundry/AI-Commerce-Graph
